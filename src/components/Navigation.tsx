@@ -1,6 +1,6 @@
 
 import { Button } from '@/components/ui/button';
-import { Icon } from '@/components/ui/icon';
+import Icon from '@/components/ui/icon';
 import { Link } from 'react-router-dom';
 
 type NavItemProps = {

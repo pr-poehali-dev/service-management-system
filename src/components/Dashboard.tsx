@@ -1,6 +1,6 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Icon } from "@/components/ui/icon";
+import Icon from "@/components/ui/icon";
 import { Progress } from "@/components/ui/progress";
 
 type StatCardProps = {
